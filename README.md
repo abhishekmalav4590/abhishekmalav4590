@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **VAISHNAV TECHNOLOGY TAMILNADU**
+- 🔭 I’m currently working on **istart nest**
 
-- 👯 I’m looking to collaborate on **WEB DEVELOPMENT**
+- 👯 I’m looking to collaborate on **FULL STACKWEB DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://www.polywork.com/abhishek_malav](https://www.polywork.com/abhishek_malav)
 
