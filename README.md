@@ -2,7 +2,7 @@
 
 Abhishek Malav
 
-🚀 Full Stack Developer · Co-Founder @ KaleidoNex · Rajasthan, India
+🚀 Full Stack Developer · Software Developer @ KaleidoNex · Rajasthan, India
 
 <a href="https://www.linkedin.com/in/abhishek-malav-b44970261">
 <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Malav-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -26,63 +26,7 @@ Abhishek Malav
 </p><p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekmalav4590&theme=github_dark" />
 </p>---
-
-💼 Experience
-
-<table>
-<tr>
-<td width="90">🚀
-
-</td>
-<td>Co-Founder & CTO
-
-KaleidoNex Technologies · "May 2025 → Present"
-
-- Leading product architecture and full-stack development
-- Managing technical strategy and deployment pipelines
-- Building scalable SaaS and web applications using MERN Stack
-
-</td>
-</tr><tr>
-<td>💻
-
-</td>
-<td>MERN Stack Developer
-
-Aaklan IT Solutions · "Jan 2026 → Jun 2026"
-
-- Developed scalable web applications using MERN Stack
-- Built REST APIs and optimized backend performance
-- Integrated databases and authentication systems
-
-</td>
-</tr><tr>
-<td>🌐
-
-</td>
-<td>Full Stack Developer
-
-Creato Software · "Jun 2025 → Oct 2025"
-
-- Developed full-stack applications using Laravel and MySQL
-- Designed backend modules and responsive interfaces
-- Worked on scalable web solutions
-
-</td>
-</tr><tr>
-<td>⚙️
-
-</td>
-<td>Backend Developer Intern
-
-Celebal Technologies · "May 2025 → Jun 2025"
-
-- Developed REST APIs using Node.js and Express.js
-- Managed MongoDB databases and API integrations
-- Performed testing and backend optimization
-
-</td>
-</tr></table>---
+ing and backend optimization
 
 🛠 Skills & Tools
 
